@@ -1,0 +1,43 @@
+
+#container{
+    text-align:center;
+    margin-top:23px;
+}
+
+table{
+    margin:auto;
+}
+
+
+#screen{
+    width:auto;
+    font-size:34px;
+    border-radius:8px;
+    height:5rem;
+
+}
+
+button{
+    font-size:23px;
+    color:white;
+    background:blue;
+    height:58px;
+    width:102px;
+    border-radius:10px;
+    margin:8px;
+}
+
+.calculator{
+    display:inline-block;
+    background-color:pink;
+    padding:23px;
+}
+
+button:hover{
+    background-color:red;
+}
+
+
+
+
+
